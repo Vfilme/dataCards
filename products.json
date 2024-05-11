@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "super product 1",
+        "categories": ["men's", "boy's"],
+        "brand": "company1"
+    },
+    {
+        "id": 2,
+        "title": "super product 2",
+        "categories": ["women's", "girl's"],
+        "brand": "company2"
+    },
+    {
+        "id": 3,
+        "title": "super product 3",
+        "categories": ["boy's", "girl's"],
+        "brand": ["company1", "company2"]
+    }
+]
