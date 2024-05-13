@@ -3,18 +3,21 @@
         "id": 1,
         "title": "super product 1",
         "categories": ["men's", "boy's"],
-        "brand": "company1"
+        "brand": "company1",
+        "src": "test_photo.png"
     },
     {
         "id": 2,
         "title": "super product 2",
         "categories": ["women's", "girl's"],
-        "brand": "company2"
+        "brand": "company2",
+        "src": "test_photo.png"
     },
     {
         "id": 3,
         "title": "super product 3",
         "categories": ["boy's", "girl's"],
-        "brand": ["company1", "company2"]
+        "brand": ["company1", "company2"],
+        "src": "test_photo.png"
     }
 ]
