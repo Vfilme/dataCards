@@ -1,23 +1,65 @@
 [
     {
         "id": 1,
-        "title": "super product 1",
-        "categories": ["men's", "boy's"],
-        "brand": "company1",
-        "src": "test_photo.png"
+        "title": "mamamiy shoes",
+        "costs": 70,
+        "categories": ["men's"],
+        "brand": "dc",
+        "color": ["red"],
+        "src": "shoesRed.webp"
     },
     {
         "id": 2,
-        "title": "super product 2",
-        "categories": ["women's", "girl's"],
-        "brand": "company2",
-        "src": "test_photo.png"
+        "title": "mamasito shoes",
+        "costs": 90,
+        "categories": ["women's"],
+        "brand": "dc",
+        "color": ["blue"],
+        "src": "shoesBlue.webp"
     },
     {
         "id": 3,
-        "title": "super product 3",
-        "categories": ["boy's", "girl's"],
-        "brand": ["company1", "company2"],
-        "src": "test_photo.png"
+        "title": "opa-hopa shoes",
+        "costs": 50,
+        "categories": ["boy's"],
+        "brand": ["dc", "boardriders"],
+        "color": ["black"],
+        "src": "shoesBlack.webp"
+    },
+    {
+        "id": 4,
+        "title": "lalala-Tata shoes",
+        "costs": 60,
+        "categories": ["girl's"],
+        "brand": ["dc", "neeldes"],
+        "color": ["white"],
+        "src": "shoesWhite.webp"
+    },
+    {
+        "id": 5,
+        "title": "kvakvakva shoes",
+        "costs": 160,
+        "categories": ["men's", "boy's", "kid's"],
+        "brand": "dc",
+        "color": ["red", "blue", "black"],
+        "src": "shoesBlackRedBlue.webp"
+    },
+    {
+        "id": 6,
+        "title": "tutata shoes",
+        "costs": 80,
+        "categories": ["women's", "girl's", "kid's"],
+        "brand": "dc",
+        "color": ["blue", "red"],
+        "src": "shoesBlueRed.webp"
+    },
+    {
+        "id": 7,
+        "title": "ChyE-Ne-CnyE shoes",
+        "costs": 40,
+        "categories": ["boy's", "girl's", "kid's"],
+        "brand": "dc",
+        "color": ["green"],
+        "src": "shoesGreen.webp"
     }
 ]
